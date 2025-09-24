@@ -2,7 +2,7 @@
 <div align="center" style="margin-top: 16px;">
   <h1 style="margin-bottom: 0.2rem;">Hi, I’m <span title="Malcolm Tavaria">Malcolm Tavaria</span> 👋</h1>
   <p style="font-size: 1.05rem; margin: 0.2rem 0 0.6rem;">
-    CS @ Northeastern University • AI & Software Engineering • VFX/Computer Vision • Football Analytics • F1
+    CS @ Northeastern University • AI & Software Engineering • Data-driven problem-solving • VFX/Computer Vision • Football Analytics
   </p>
   <p style="margin: 0.2rem 0;">
     <a href="mailto:max2k06@gmail.com">📧 Email</a> ·
