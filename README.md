@@ -43,6 +43,13 @@
   <b>ML/DS:</b> TensorFlow, scikit-learn, NumPy, Pandas, Matplotlib, Tableau, Mistral
 </div>
 
+<!-- Education & Interests -->
+<h2>🎓 Education & Interests</h2>
+<ul>
+  <li><b>Northeastern University, Khoury College of CS</b> — B.S. Computer Science</li>
+  <li>Interests: AI in sports & business, robotics, game dev, body-building, FC Barcelona, FIFA/Halo, Formula 1</li>
+</ul>
+
 <!-- Featured Projects -->
 <h2>📌 Featured Projects</h2>
 
@@ -103,13 +110,6 @@
     <p style="margin: 8px 0;">
     </p>
   </div>
-
-<!-- Education & Interests -->
-<h2>🎓 Education & Interests</h2>
-<ul>
-  <li><b>Northeastern University, Khoury College of CS</b> — B.S. Computer Science</li>
-  <li>Interests: AI in sports & business, robotics, game dev, body-building, FC Barcelona, FIFA/Halo, Formula 1</li>
-</ul>
 
 <!-- Call to Action -->
 <div align="center" style="margin-top: 10px;">
