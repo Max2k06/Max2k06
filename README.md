@@ -111,6 +111,16 @@
     </p>
   </div>
 
+  <!-- Achievements -->
+<h2>🏆 Achievements & Highlights</h2>
+<ul>
+  <li>🎬 Potentially reduced prep time by <b>20%</b> in VFX pipelines at <b>DNEG</b> by integrating Segment Anything into Streamlit tooling.</li>
+  <li>🌊 Improved flood prediction accuracy by <b>25%</b> with an AI-powered platform at <b>Atos (Eviden)</b>, enabling 100+ daily queries from non-technical users.</li>
+  <li>📱 Boosted engagement by <b>30%</b> leading a 5-member team to deliver a food delivery app with recommendation engine at <b>OASIS Dev Club</b>.</li>
+  <li>⚽ Applied ML to predict outcomes for <b>500+ football players</b>, benchmarking models from KNN to Deep Q-Networks.</li>
+</ul>
+
+
 <!-- Call to Action -->
 <div align="center" style="margin-top: 10px;">
   <a href="mailto:max2k06@gmail.com"><b>Let’s collaborate or chat about a role →</b></a>
