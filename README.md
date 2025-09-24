@@ -60,9 +60,21 @@
       <li>Multi-object support and mask export</li>
     </ul>
     <p style="margin: 8px 0;">
-      <a href="#">Repo</a> · <a href="#">Demo</a> (placeholders)
     </p>
   </div>
+
+  <div style="border: 1px solid #e5e7eb; border-radius: 12px; padding: 14px;">
+    <h3 style="margin: 6px 0;">Food Delivery App (OASIS Dev Club)</h3>
+    <p style="margin: 8px 0;">
+      Cross-platform React/Expo app with a lightweight recommendation engine, designed for usability at scale.
+    </p>
+    <ul style="margin: 6px 0 0 18px;">
+      <li>Mobile-first UX, clean component architecture</li>
+      <li>Team sprints, code reviews, and CI basics</li>
+    </ul>
+    <p style="margin: 8px 0;">
+    </p>
+    </div>
 
   <div style="border: 1px solid #e5e7eb; border-radius: 12px; padding: 14px;">
     <h3 style="margin: 6px 0;">Flood Risk Analytics Platform</h3>
@@ -75,7 +87,6 @@
       <li>Causal and temporal breakdowns across phases</li>
     </ul>
     <p style="margin: 8px 0;">
-      <a href="#">Summary</a> · <a href="#">Tech notes</a> (placeholders)
     </p>
   </div>
 
@@ -90,25 +101,8 @@
       <li>Clear metrics & visualizations for insight</li>
     </ul>
     <p style="margin: 8px 0;">
-      <a href="#">Paper</a> · <a href="#">Code</a> (placeholders)
     </p>
   </div>
-
-  <div style="border: 1px solid #e5e7eb; border-radius: 12px; padding: 14px;">
-    <h3 style="margin: 6px 0;">Food Delivery App (OASIS Dev Club)</h3>
-    <p style="margin: 8px 0;">
-      Cross-platform React/Expo app with a lightweight recommendation engine, designed for usability at scale.
-    </p>
-    <ul style="margin: 6px 0 0 18px;">
-      <li>Mobile-first UX, clean component architecture</li>
-      <li>Team sprints, code reviews, and CI basics</li>
-    </ul>
-    <p style="margin: 8px 0;">
-      <a href="#">Case study</a> · <a href="#">Repo</a> (placeholders)
-    </p>
-  </div>
-
-</div>
 
 <!-- Education & Interests -->
 <h2>🎓 Education & Interests</h2>
